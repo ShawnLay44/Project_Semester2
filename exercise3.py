@@ -3,8 +3,10 @@
 #import the random from outside
 import random
 
+#get a random number
 random_number = random.randint(10, 20)
 
+#use while loop to guess the number til you get it
 while True:
     try:
         b = int(input("Enter the number you guess: "))

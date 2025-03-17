@@ -1,5 +1,6 @@
 #Enter a number and double it
 #Author:Wulei
+#DATE:2025/3/14
 #enter a number
 a = input("Enter first number: ")
 
